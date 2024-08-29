@@ -67,11 +67,11 @@ The trained model is saved as `YYYY-MM-DD_model.pth` where `YYYY-MM-DD` is the c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/esadaltunel/jellyfish_classification/tree/main
+   git clone https://github.com/esadaltunel/jellyfish_classification.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd SimpleCNN-Image-Classification
+   cd jellyfish_classification
    ```
 3. Run the training script:
    ```bash
